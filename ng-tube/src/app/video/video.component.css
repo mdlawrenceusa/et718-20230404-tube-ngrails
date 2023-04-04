@@ -1,0 +1,9 @@
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://wallup.net/wp-content/uploads/2015/12/243666-forest-simple_background-trees-path-nature-landscape.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
